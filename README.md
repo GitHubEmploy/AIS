@@ -1,5 +1,5 @@
 # AIS - Find High Moving Stocks before they Move
-Find high moving stocks before they move using anomaly detection and machine learning. Surpriver uses machine learning to look at volume + price action and infer unusual patterns which can result in big moves in stocks.
+Find high moving stocks before they move using anomaly detection and machine learning. AIS uses machine learning to look at volume + price action and infer unusual patterns which can result in big moves in stocks.
 
 ### Files Description
 | Path | Description
